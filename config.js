@@ -1,2 +1,2 @@
 console.log("Yeshua is Lord");
-console.log("Yeshua is Yahweh");
+console.log("Yeshua is El khadosh");
