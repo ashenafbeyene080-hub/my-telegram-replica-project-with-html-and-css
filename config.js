@@ -1,3 +1,3 @@
-console.log("version1");
-console.log("version2");
-console.log("version 1 upda")
+console.log("Dominik");
+console.log("Szoboszlai");
+console.log("Rio ngumoha")

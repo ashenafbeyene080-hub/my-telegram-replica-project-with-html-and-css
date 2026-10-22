@@ -1,2 +1,2 @@
-console.log("Yeshua Reigns");
-console.log("changed");
+let n = 10;
+console.log(n);
